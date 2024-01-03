@@ -12,3 +12,4 @@ Store Data Analysis
 https://public.tableau.com/views/storedataanalysis_17032554370880/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Super proud of this accomplishment and looking forward to more data-driven adventures! 🎉 #DataAnalytics #TableauDashboard #RetailInsights #DataDrivenDecisions
+https://www.linkedin.com/feed/update/urn:li:activity:7143982635109822465/
